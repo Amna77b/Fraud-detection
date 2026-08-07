@@ -1,5 +1,7 @@
 # Détection d'Anomalies Financières & Dashboard BI
 
+*[English version](README_EN.md)*
+
 Projet de détection de fraude sur transactions bancaires, combinant Machine
 Learning non supervisé et visualisation interactive — dans une logique
 Data & IA appliquée au conseil (audit augmenté par la donnée).
